@@ -1,0 +1,209 @@
+###
+POST http://localhost:8080/actions
+Content-Type: application/json
+
+[
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "INSERT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 1025
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SOFT_DELETE",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 525
+  },
+  {
+    "serviceType": "OBJECT_STORAGE",
+    "actionType": "PUT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 1025
+  },
+  {
+    "serviceType": "OBJECT_STORAGE",
+    "actionType": "GET",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "OBJECT_STORAGE",
+    "actionType": "SOFT_DELETE",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 1025
+  },
+  {
+    "serviceType": "VM",
+    "actionType": "START",
+    "userId": 1,
+    "timestamp": 1638407533,
+    "payloadSizeMb": 0
+  },
+  {
+    "serviceType": "VM",
+    "actionType": "STOP",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 0
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "DB",
+    "actionType": "SELECT",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 500
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  },
+  {
+    "serviceType": "FUNC",
+    "actionType": "EXEC",
+    "userId": 1,
+    "timestamp": 1638447133,
+    "payloadSizeMb": 120
+  }
+]
